@@ -4,6 +4,12 @@ app = Flask(__name__)
 
 # Google Drive project links
 projects = [
+("project 1", "https://drive.google.com/file/d/1VkzeAwn-r2rfkX1MkhUTEdujmWZqXlGX/view?usp=sharing"),
+("project 2", "https://drive.google.com/file/d/1kR-Uy4nLIOgKBttblok9r_s8QyK2gWYD/view?usp=sharing"),
+("project 3", "https://drive.google.com/file/d/1fSnrXAQ2aQNeN8XhCdyfCkEXwLpMgckt/view?usp=sharing"),
+("project 4", "https://drive.google.com/file/d/118CZPVBhCqfY87E_GJJim09vj526XSNA/view?usp=sharing"),
+("project 5", "https://drive.google.com/file/d/14KA-LladQ041wEaI8dLoSoyDJ2m6wTXO/view?usp=sharing"),
+("project 6", "https://drive.google.com/file/d/1LjMGmIiUqbt_rzvfDU1aq0BTdit5CgfM/view?usp=sharing"),
     ("ann", "https://drive.google.com/file/d/18GTCceLzBvDmP9CFnUUzIhEESxtrNpi4/view?usp=sharing"),
     ("A*", "https://drive.google.com/file/d/1-Rf6XYg6UNMzgCPohrudqWZSrs9h9Cdg/view?usp=sharing"),
     ("Candidate Eliminate Algorithm", "https://drive.google.com/file/d/1wirCsSM8Q3gJPGEmdhxuLNekRDyqm_mK/view?usp=sharing"),
